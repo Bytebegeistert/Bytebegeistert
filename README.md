@@ -4,7 +4,7 @@
 🔄 Aktuell absolviere ich eine Umschulung für Anwendungsentwicklung und suche auf diesem Wege ein Prakatikum   
    für den Zeitraum von Januar 2027 bis Oktober 2027.  
 
-🎯 Ziel des Praktikums ist es meine berufsbezogenen Fähigkeiten auszubauen.  
+🎯 Ziel des Praktikums ist es meine berufsbezogenen Fähigkeiten auszubauen.   
 
 ---Was ich bisher in der Schule lernte---  
 
@@ -23,4 +23,4 @@
 
 
 In meiner Freizeit entwickel ich gerade Arduino basierte IoT Geräte und schnupper hierfür in die  
-Welt von C++, HTML und CSS rein.  
+Welt von C++ und HTML rein.  
