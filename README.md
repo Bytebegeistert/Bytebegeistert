@@ -19,10 +19,10 @@
 💶 Rechnungswesen(Betiebskalkulation uä.)  
 
 ---Aktuelle Lernfelder---  
+
 🖥️ IT-PC - Aufbau eines Pc's
 📊 OOP + UML - Vertiefung von Python und UML
 
 
-In meiner Freizeit automatisiere ich derzeit das Bewässern meiner Zimmerpflanzen mit ESP Microcontrollern und schnupper hierfür in die  
-Welt von C++ und HTML rein. 
+In meiner Freizeit automatisiere ich derzeit das Bewässern meiner Zimmerpflanzen mit ESP Microcontrollern und schnupper hierfür in die  Welt von C++ und HTML rein. 
 
