@@ -14,13 +14,15 @@
 🔑 PQSM – Projektmanagementmethoden  
 🌐 Netzwerktechnik – Grundlagen von Netzwerken   
 📚 WiSo Lohnsteuer, Arbeitsrecht usw.  
-
----Aktuelle Lernfelder---  
-
 🐧 Linux (Grundlagen + Webserver installieren und einrichten in der Hyper-V)  
 🛡️ IT-Sicherheit (Kryptographie,Schadsoftware und Schutzbedarfsanalyse)  
 💶 Rechnungswesen(Betiebskalkulation uä.)  
 
+---Aktuelle Lernfelder---  
+🖥️ IT-PC - Aufbau eines Pc's
+📊 OOP + UML - Vertiefung von Python und UML
 
-In meiner Freizeit entwickel ich gerade Arduino basierte IoT Geräte und schnupper hierfür in die  
-Welt von C++ und HTML rein.  
+
+In meiner Freizeit automatisiere ich derzeit das Bewässern meiner Zimmerpflanzen mit ESP Microcontrollern und schnupper hierfür in die  
+Welt von C++ und HTML rein. 
+
